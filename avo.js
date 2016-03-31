@@ -6,7 +6,7 @@ var newAvos = avos.split(",");
 // console.log(newAvos);
 
 //use the split method to remove the for in my Array;
-var avos2 = avos.split("for")
+var avos2 = avos.split("for R" )
 //
 // console.log(avos2);
 
@@ -16,4 +16,10 @@ var avos2 = avos.split("for")
 
 });
        console.log(avos2);
-//remove the "R" in the rands so that the price will be a number
+
+//Calculate the price of the avo for each deal!!
+
+// var price = function(avo){
+//   if(avo === 1);
+//     return
+// }
