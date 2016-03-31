@@ -12,7 +12,8 @@ var avos2 = avos.split("for")
 
 //use a forEach loop to calculate the price per Avo
   avos2.forEach(function(avos2){
+    // var myAvos = avos2.split("R");
 
 });
-
- console.log(avos2);
+       console.log(avos2);
+//remove the "R" in the rands so that the price will be a number
