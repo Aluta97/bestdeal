@@ -39,7 +39,7 @@ console.log(max, "expensive deal")
 var total = 0;
 //ACCess all the numbers in your array:
 for (var i = 0; i < pArray.length; i++) {
-  total += Number(pArray[i]); //converting my string to a number
+  total += Number(pArray[i]); //converting my aaray of string to a number
 };
 var average = total / pArray.length;
 console.log(average.toFixed(2), "average price");
